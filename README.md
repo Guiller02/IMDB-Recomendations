@@ -17,7 +17,6 @@ Project is created with:
 
 ## To Do
 To do:
-* Loop requisitions to take 4 requisitions for entertainment (2000 of each)
 * Make analysis from data
 * Recomendation (without ML or DP) based on score and date
 * Recomendation system
