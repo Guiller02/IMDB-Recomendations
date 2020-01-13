@@ -3,7 +3,7 @@
 
 # ## Imports
 
-# In[2]:
+# In[1]:
 
 
 from bs4 import BeautifulSoup as bs
@@ -14,7 +14,7 @@ import pandas as pd
 
 # ## Creating a function with loop for insert on each array
 
-# In[3]:
+# In[2]:
 
 
 def scrap_data(option):
@@ -116,28 +116,23 @@ def scrap_data(option):
             serie_director = content.find('p',class_='').find_all('a')[0].text
             series_directors.append(serie_director)
         #The actors from the serie
-            if len(content.find('p',class_='').find_all('a'))>=5:
-                series_actors1 = content.find('p',class_='').find_all('a')[1].text
-                series_actors2 = content.find('p',class_='').find_all('a')[2].text
-                series_actors3 = content.find('p',class_='').find_all('a')[3].text
-                series_actors4 = content.find('p',class_='').find_all('a')[4].text
-            elif len(content.find('p',class_='').find_all('a'))==4:
-                series_actors1 = content.find('p',class_='').find_all('a')[1].text
-                series_actors2 = content.find('p',class_='').find_all('a')[2].text
-                series_actors3 = content.find('p',class_='').find_all('a')[3].text
-                series_actors4 = 'none'
+            if len(content.find('p',class_='').find_all('a'))>=4:
+                series_actors1 = content.find('p',class_='').find_all('a')[0].text
+                series_actors2 = content.find('p',class_='').find_all('a')[1].text
+                series_actors3 = content.find('p',class_='').find_all('a')[2].text
+                series_actors4 = content.find('p',class_='').find_all('a')[3].text
             elif len(content.find('p',class_='').find_all('a'))==3:
-                series_actors1 = content.find('p',class_='').find_all('a')[1].text
-                series_actors2 = content.find('p',class_='').find_all('a')[2].text
-                series_actors3 = 'none'
+                series_actors1 = content.find('p',class_='').find_all('a')[0].text
+                series_actors2 = content.find('p',class_='').find_all('a')[1].text
+                series_actors3 = content.find('p',class_='').find_all('a')[2].text
                 series_actors4 = 'none'
             elif len(content.find('p',class_='').find_all('a'))==2:
-                series_actors1 = content.find('p',class_='').find_all('a')[1].text
-                series_actors2 = 'none'
+                series_actors1 = content.find('p',class_='').find_all('a')[0].text
+                series_actors2 = content.find('p',class_='').find_all('a')[1].text
                 series_actors3 = 'none'
                 series_actors4 = 'none'
             elif len(content.find('p',class_='').find_all('a'))==1:
-                series_actors1 = 'none'
+                series_actors1 = content.find('p',class_='').find_all('a')[0].text
                 series_actors2 = 'none'
                 series_actors3 = 'none'
                 series_actors4 = 'none'
@@ -182,7 +177,7 @@ def scrap_data(option):
 
 # Here i'm creating an empty array of each entertainment font, and getting the url and adding a loop to call the scrap data and change the url untill the size of the arrays is 1000 
 
-# In[4]:
+# In[3]:
 
 
 movie_genre = ''
@@ -208,7 +203,7 @@ while len(movies_names) < 1000:
     scrap_data(1)
 
 
-# In[5]:
+# In[4]:
 
 
 serie_genre = ''
@@ -234,7 +229,7 @@ while len(series_names) < 1000:
     scrap_data(2)
 
 
-# In[6]:
+# In[5]:
 
 
 game_genre = ''
@@ -261,7 +256,7 @@ while len(games_names) < 1000:
 
 # Adding the arrays to a dataframe
 
-# In[7]:
+# In[6]:
 
 
 movies_dataframe = pd.DataFrame({
@@ -301,19 +296,19 @@ games_dataframe = pd.DataFrame({
 
 # And look what is in every dataframe
 
-# In[8]:
+# In[7]:
 
 
 movies_dataframe.head()
 
 
-# In[9]:
+# In[8]:
 
 
 series_dataframe.head()
 
 
-# In[10]:
+# In[9]:
 
 
 games_dataframe.head()
@@ -321,10 +316,10 @@ games_dataframe.head()
 
 # And creating a csv with this dataframes
 
-# In[11]:
+# In[10]:
 
 
-movies_dataframe.to_csv('../datasets/imdb_movies.csv')
-series_dataframe.to_csv('../datasets/imdb_series.csv')
-games_dataframe.to_csv('../datasets/imdb_games.csv')
+movies_dataframe.to_csv('imdb_movies.csv')
+series_dataframe.to_csv('imdb_series.csv')
+games_dataframe.to_csv('imdb_games.csv')
 
