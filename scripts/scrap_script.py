@@ -112,9 +112,6 @@ def scrap_data(option):
         #The genres of the serie
             series_genre = content.find('span', attrs = {'class':'genre'}).text.strip()
             series_genres.append(series_genre)
-        #The director of the serie
-            serie_director = content.find('p',class_='').find_all('a')[0].text
-            series_directors.append(serie_director)
         #The actors from the serie
             if len(content.find('p',class_='').find_all('a'))>=4:
                 series_actors1 = content.find('p',class_='').find_all('a')[0].text
@@ -279,7 +276,6 @@ series_dataframe = pd.DataFrame({
 'age_rating':series_ages,
 'runtime':series_runtimes,
 'genres':series_genres,
-'directors':series_directors,
 'actors':series_stars
 })
 
@@ -319,7 +315,7 @@ games_dataframe.head()
 # In[10]:
 
 
-movies_dataframe.to_csv('imdb_movies.csv')
-series_dataframe.to_csv('imdb_series.csv')
-games_dataframe.to_csv('imdb_games.csv')
+movies_dataframe.to_csv('../datasets/imdb_movies.csv')
+series_dataframe.to_csv('../datasets/imdb_series.csv')
+games_dataframe.to_csv('../datasets/imdb_games.csv')
 

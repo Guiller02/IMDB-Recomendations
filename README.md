@@ -14,9 +14,3 @@ Project is created with:
 * Pandas
 * Requests
 * BeautifulSoup
-
-## To Do
-To do:
-* Make analysis from data
-* Recomendation (without ML or DP) based on score and date
-* Recomendation system

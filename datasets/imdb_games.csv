@@ -1,17 +1,17 @@
 ,name,year,imdb,number_votes,age_rating,genres,directors
-0,Uncharted 4: A Thief's End,2016,9.5,17741,14,"Action, Adventure, Drama",Neil Druckmann
+0,Uncharted 4: A Thief's End,2016,9.5,17742,14,"Action, Adventure, Drama",Neil Druckmann
 1,Wiedzmin 3: Dziki Gon,2015,9.7,16187,16,"Action, Adventure, Drama",Konrad Tomaszkiewicz
-2,Red Dead Redemption II,2018,9.7,15508,18,"Action, Adventure, Crime",Benjamin Byron Davis
-3,God of War,2018,9.6,12798,18,"Action, Adventure, Drama",Cory Barlog
+2,Red Dead Redemption II,2018,9.7,15509,18,"Action, Adventure, Crime",Benjamin Byron Davis
+3,God of War,2018,9.6,12801,18,"Action, Adventure, Drama",Cory Barlog
 4,Batman: Arkham Knight,2015,9.0,12561,16,"Action, Adventure, Crime",Sefton Hill
 5,Until Dawn,2015,8.9,10094,none,"Horror, Mystery, Thriller",Will Byles
 6,Fallout 4,2015,8.7,9495,none,"Action, Adventure, Drama",Todd Howard
-7,Spider-Man,2018,9.3,9253,12,"Action, Adventure, Fantasy",Ryan Smith
-8,Detroit: Become Human,2018,9.3,8648,16,"Drama, Sci-Fi, Thriller",David Cage
+7,Spider-Man,2018,9.3,9254,12,"Action, Adventure, Fantasy",Ryan Smith
+8,Detroit: Become Human,2018,9.3,8649,16,"Drama, Sci-Fi, Thriller",David Cage
 9,Life Is Strange,2015,8.9,8456,16,"Adventure, Drama, Mystery",Raoul Barbet
-10,Horizon Zero Dawn,2017,9.2,7055,none,"Action, Adventure, Fantasy",Mathijs de Jonge
+10,Horizon Zero Dawn,2017,9.2,7056,none,"Action, Adventure, Fantasy",Mathijs de Jonge
 11,Rise of the Tomb Raider,2015,8.6,6160,none,"Action, Adventure, Drama",Neil Huxley
-12,Metal Gear Solid V: The Phantom Pain,2015,8.9,5339,none,"Action, Adventure, Crime",Hideo Kojima
+12,Metal Gear Solid V: The Phantom Pain,2015,8.9,5340,none,"Action, Adventure, Crime",Hideo Kojima
 13,The Witcher 3: Wild Hunt - Blood and Wine,2016,9.8,4811,none,"Action, Adventure, Crime",Konrad Tomaszkiewicz
 14,Call of Duty: Black Ops III,2015,6.9,4777,14,"Action, Adventure, Horror",Jason Blundell
 15,Battlefield 1,2016,8.2,4486,none,"Action, Adventure, Drama",Lars Gustavsson
@@ -22,19 +22,19 @@
 20,Uncharted: The Lost Legacy,2017,8.6,3783,none,"Action, Adventure, Drama",Shaun Escayg
 21,Resident Evil 7: Biohazard,2017,8.7,3699,16,"Action, Adventure, Horror",Koushi Nakanishi
 22,Star Wars: Battlefront,2015,6.7,3618,none,"Action, Fantasy, Sci-Fi",Hez Chorba
-23,Zeruda no densetsu: Buresu obu za wairudo,2017,9.4,3580,none,"Action, Adventure, Family",Hidemaro Fujibayashi
-24,Far Cry 5,2018,8.1,3576,18,"Action, Adventure, Drama",Patrick Methe
+23,Zeruda no densetsu: Buresu obu za wairudo,2017,9.4,3583,none,"Action, Adventure, Family",Hidemaro Fujibayashi
+24,Far Cry 5,2018,8.1,3577,18,"Action, Adventure, Drama",Patrick Methe
 25,Doom,2016,8.6,3471,none,"Action, Adventure, Horror",Marty Stratton
 26,Call of Duty: WWII,2017,7.9,3445,none,"Action, Adventure, Drama",Michael Condrey
 27,Wolfenstein II: The New Colossus,2017,7.9,3321,none,"Action, Adventure, Drama",Fredrik Ljungdahl
 28,Overwatch,2016,8.5,3249,12,"Action, Adventure, Family",Jeffrey Kaplan
 29,Star Wars: Battlefront II,2017,6.6,3019,12,"Action, Adventure, Fantasy",Hez Chorba
-30,Uncharted: The Nathan Drake Collection,2015,9.4,2972,none,"Action, Adventure, Fantasy",Amy Hennig
-31,Star Wars Jedi: Fallen Order,2019,8.9,2970,none,"Action, Adventure, Fantasy",Stig Asmussen
+30,Star Wars Jedi: Fallen Order,2019,8.9,2973,none,"Action, Adventure, Fantasy",Stig Asmussen
+31,Uncharted: The Nathan Drake Collection,2015,9.4,2972,none,"Action, Adventure, Fantasy",Amy Hennig
 32,Fortnite,2017,4.7,2826,12,"Action, Adventure, Comedy",Darren Sugg
 33,Bloodborne,2015,9.2,2802,none,"Action, Adventure, Fantasy",Hidetaka Miyazaki
 34,Call of Duty: Infinite Warfare,2016,6.1,2739,none,"Action, Adventure, Sci-Fi",Brian Bloom
-35,Death Stranding,2019,9.1,2733,16,"Action, Adventure, Drama",Hideo Kojima
+35,Death Stranding,2019,9.1,2734,16,"Action, Adventure, Drama",Hideo Kojima
 36,Assassin's Creed: Odyssey,2018,8.6,2708,18,"Action, Adventure, Fantasy",Jonathan Dumont
 37,Mortal Kombat X,2015,8.4,2580,18,"Action, Adventure, Fantasy",Dominic Cianciolo
 38,Dying Light,2015,8.2,2543,16,"Action, Horror, Thriller",Adrian Ciszewski
@@ -49,7 +49,7 @@
 47,Watch Dogs 2,2016,7.6,2136,16,"Action, Adventure, Comedy",Danny Bélanger
 48,Dark Souls III,2016,9.1,2134,14,"Action, Adventure, Fantasy",Hidetaka Miyazaki
 49,Halo 5: Guardians,2015,7.4,2058,14,"Action, Adventure, Family",Brien Goodrich
-50,Super Mario Odyssey,2017,9.0,2052,Livre,"Action, Adventure, Family",Kenta Motokura
+50,Super Mario Odyssey,2017,9.0,2055,Livre,"Action, Adventure, Family",Kenta Motokura
 51,The Walking Dead: The Game - Season 3,2016,7.8,2045,none,"Action, Adventure, Drama",Rebekah Gamin
 52,Far Cry Primal,2016,7.4,2024,18,"Action, Adventure, History",Jean-Christophe Guyot
 53,Destiny 2,2017,7.6,1996,none,"Action, Adventure, Fantasy",Christopher Barrett
@@ -66,7 +66,7 @@
 64,Call of Duty: Modern Warfare,2019,8.7,1588,none,Action,Chad Michael Collins
 65,Just Cause 3,2015,7.2,1547,16,"Action, Adventure, Crime",Roland Lesterlin
 66,Rainbow Six: Siege,2015,8.0,1525,none,"Action, Crime, Thriller",Angela Bassett
-67,Wolfenstein: The Old Blood,2015,7.8,1499,none,"Action, Adventure, Horror",Brian Bloom
+67,Wolfenstein: The Old Blood,2015,7.8,1500,none,"Action, Adventure, Horror",Brian Bloom
 68,Persona 5,2016,9.4,1498,14,"Adventure, Crime, Fantasy",Katsura Hashino
 69,The Division,2016,7.4,1443,16,"Action, Adventure",Magnus Jansén
 70,What Remains of Edith Finch,2017,8.8,1435,14,"Adventure, Drama, Mystery",Ian Dallas
@@ -103,7 +103,7 @@
 101,Apex Legends,2019,7.3,955,14,"Action, Sci-Fi",JB Blanc
 102,A Way Out,2018,8.1,942,16,"Action, Adventure, Crime",Josef Fares
 103,Metro Exodus,2019,8.2,924,16,"Action, Adventure, Horror",Andrew Prokhorov
-104,Batman: The Enemy Within,2017,8.6,921,none,"Action, Crime, Drama",Sean Manning
+104,Batman: The Enemy Within,2017,8.6,922,none,"Action, Crime, Drama",Sean Manning
 105,Sekiro: Shadows Die Twice,2019,8.5,915,18,"Action, Adventure, Fantasy",Hidetaka Miyazaki
 106,The Divergent Series: Insurgent - Shatter Reality,2015,6.2,913,none,"Short, Action",Cory Strassburger
 107,Lego Star Wars: The Force Awakens,2016,8.0,908,none,"Action, Adventure, Comedy",Hez Chorba
@@ -113,7 +113,7 @@
 111,Friday the 13th: The Game,2017,7.6,878,18,"Horror, Thriller",Randy Greenback
 112,Lego Jurassic World,2015,8.0,848,Livre,"Action, Adventure, Comedy",Jon Burton
 113,No Man's Sky,2016,5.5,848,10,"Adventure, Family, Fantasy",Sean Murray
-114,FIFA 19,2018,6.4,837,Livre,Sport,Dylan Akio Smith
+114,FIFA 19,2018,6.4,838,Livre,Sport,Dylan Akio Smith
 115,Baiohazâdo reberêshonzu 2,2015,7.5,802,none,"Action, Adventure, Horror",Koushi Nakanishi
 116,Ori and the Blind Forest,2015,8.9,778,none,"Adventure, Fantasy",Thomas Mahler
 117,Minecraft: Story Mode - A Telltale Games Series,2015,6.6,778,none,"Adventure, Comedy, Family",Jason Latino
@@ -124,13 +124,13 @@
 122,Lego Marvel's Avengers,2016,8.1,753,Livre,"Action, Adventure, Comedy",Arthur Parsons
 123,StarCraft II: Legacy of the Void,2015,8.8,739,none,Sci-Fi,Dustin Browder
 124,Sonic Mania,2017,8.6,735,none,"Animation, Action, Adventure",Lynn Harris
-125,Grim Fandango: Remastered,2015,8.8,734,12,Adventure,Tim Schafer
+125,Grim Fandango: Remastered,2015,8.8,735,12,Adventure,Tim Schafer
 126,The Outer Worlds,2019,8.4,732,16,"Action, Adventure, Sci-Fi",Leonard Boyarsky
 127,Resident Evil HD Remaster,2015,8.9,726,none,"Action, Adventure, Horror",Takumi Kataoka
 128,Bloodborne: The Old Hunters,2015,9.4,716,none,Action,Hidetaka Miyazaki
 129,Mirror's Edge: Catalyst,2016,6.9,693,14,"Action, Adventure, Crime",Tom Keegan
 130,Saints Row: Gat Out of Hell,2015,6.4,689,14,"Action, Adventure, Comedy",Daniel Dae Kim
-131,Far Cry New Dawn,2019,6.5,687,16,"Action, Adventure, Drama",Jean-Sebastien Decant
+131,Far Cry New Dawn,2019,6.5,688,16,"Action, Adventure, Drama",Jean-Sebastien Decant
 132,Everybody's Gone to the Rapture,2015,7.4,675,14,"Action, Adventure, Mystery",Kate Saxon
 133,Destiny: The Taken King,2015,8.5,672,none,Sci-Fi,Luke Smith
 134,Oxenfree,2016,8.1,670,none,"Adventure, Thriller",Adam Hines
@@ -142,8 +142,8 @@
 140,Pokémon GO,2016,6.5,631,none,"Action, Adventure, Family",Ektor Pan
 141,Guardians of the Galaxy: The Telltale Series,2017,7.8,625,12,"Action, Adventure, Comedy",Jonathan Stauder
 142,The Dark Pictures: Man of Medan,2019,6.8,621,none,"Adventure, Drama, Horror",Tom Heaton
-143,A Plague Tale: Innocence,2019,8.5,616,none,"Action, Adventure, Horror",Kevin Choteau
-144,Control,2019,8.4,615,16,"Action, Adventure, Sci-Fi",Mikael Kasurinen
+143,Control,2019,8.4,616,16,"Action, Adventure, Sci-Fi",Mikael Kasurinen
+144,A Plague Tale: Innocence,2019,8.5,616,none,"Action, Adventure, Horror",Kevin Choteau
 145,Hotline Miami 2: Wrong Number,2015,7.8,606,none,"Action, Crime, Thriller",Jonatan Söderström
 146,Lego Dimensions,2015,7.7,603,none,"Action, Adventure, Comedy",James McLoughlin
 147,Kingdom Come: Deliverance,2018,8.4,603,none,"Action, Adventure, Drama",Daniel Vávra
@@ -226,11 +226,11 @@
 224,NBA 2K18,2017,6.4,274,none,Sport,Christian Papierniak
 225,NBA 2k19,2018,6.7,272,none,Sport,Christian Papierniak
 226,Halo Wars 2,2017,7.4,269,14,"Action, Sci-Fi, War",Alistair Hope
-227,Crash Team Racing: Nitro-Fueled,2019,8.5,262,Livre,"Adventure, Comedy, Sport",Philippe Turcotte
-228,Destiny 2: Forsaken,2018,7.8,262,none,"Action, Adventure, Fantasy",Scott Taylor
+227,Destiny 2: Forsaken,2018,7.8,263,none,"Action, Adventure, Fantasy",Scott Taylor
+228,Crash Team Racing: Nitro-Fueled,2019,8.5,262,Livre,"Adventure, Comedy, Sport",Philippe Turcotte
 229,Lego DC Super-Villains,2018,7.9,262,none,"Action, Adventure, Comedy",Andrew Holt
 230,Darksiders III,2018,6.7,261,none,Fantasy,John Pearl
-231,Call of Cthulhu: The Official Video Game,2018,7.8,252,none,"Adventure, Horror, Mystery",Jeremie Monedero
+231,Call of Cthulhu: The Official Video Game,2018,7.8,253,none,"Adventure, Horror, Mystery",Jeremie Monedero
 232,Mario + Rabbids Kingdom Battle,2017,7.3,250,Livre,"Action, Adventure, Comedy",Davide Soliani
 233,Super Mario Party,2018,7.5,248,Livre,"Action, Adventure, Family",Shuichiro Nishiya
 234,Dragon Age: Inquisition - Trespasser,2015,8.5,248,none,Fantasy,Mike Laidlaw
@@ -257,8 +257,8 @@
 255,Homefront: The Revolution,2016,5.2,206,none,"Action, Adventure, Drama",Hasit Zala
 256,Blair Witch,2019,6.6,205,none,"Adventure, Horror, Mystery",Mateusz Lenart
 257,"Pokémon: Let's Go, Pikachu!",2018,7.4,202,none,"Action, Adventure, Family",Junichi Masuda
-258,WWE 2K18,2017,6.5,200,12,Sport,Colby Lopez
-259,The Legend of Zelda: Link's Awakening,2019,8.5,198,none,"Action, Adventure, Family",Mikiharu Oiwa
+258,The Legend of Zelda: Link's Awakening,2019,8.5,200,none,"Action, Adventure, Family",Mikiharu Oiwa
+259,WWE 2K18,2017,6.5,200,12,Sport,Colby Lopez
 260,Faiâ emuburemu: Fuuka setsugetsu,2019,8.8,198,none,"Action, Adventure, Drama",Toshiyuki Kusakihara
 261,Pro Evolution Soccer 2016,2015,6.9,198,none,"Action, Adventure, Sport",Yoshikatsu Ogihara
 262,Madden NFL 18: Longshot,2017,6.9,197,none,"Drama, Sport",Michael Young
@@ -286,10 +286,10 @@
 284,XCOM 2: War of the Chosen,2017,8.5,172,none,"Action, Sci-Fi",Jacob Solomon
 285,Project Cars,2015,6.8,172,none,Sport,Ian Bell
 286,Five Nights at Freddy's World,2016,5.2,168,none,"Adventure, Fantasy",Scott Cawthon
-287,Lego The Incredibles,2018,7.1,167,none,"Action, Adventure, Comedy",Pete Gomer
-288,Sherlock Holmes: The Devils Daughter,2016,7.5,166,14,Adventure,Aurélie Ludot
-289,Dead or Alive 5: Last Round,2015,7.8,166,16,Action,Laura Bailey
-290,Luigi's Mansion 3,2019,8.6,165,none,"Adventure, Comedy, Family",Devon Blanchet
+287,Luigi's Mansion 3,2019,8.6,167,none,"Adventure, Comedy, Family",Devon Blanchet
+288,Lego The Incredibles,2018,7.1,167,none,"Action, Adventure, Comedy",Pete Gomer
+289,Sherlock Holmes: The Devils Daughter,2016,7.5,166,14,Adventure,Aurélie Ludot
+290,Dead or Alive 5: Last Round,2015,7.8,166,16,Action,Laura Bailey
 291,Super Mario Maker 2,2019,8.8,164,none,"Action, Family",Yosuke Oshino
 292,Luigi's Mansion,2018,8.3,164,none,"Adventure, Comedy, Horror",Katsumi Kuga
 293,Deltarune,2018,8.4,162,none,"Adventure, Comedy, Fantasy",Toby Fox
@@ -496,10 +496,10 @@
 494,Kerbal Space Program,2015,8.5,62,none,"Adventure, Comedy, Sci-Fi",Felipe Falanghe
 495,Mario & Sonic at the Rio 2016 Olympic Games,2016,6.8,62,none,Sport,Eigo Kasahara
 496,MediEvil,2019,8.2,62,none,"Action, Adventure, Fantasy",Lani Minella
-497,Katana Zero,2019,8.3,62,none,Action,Justin Stander
-498,Pillars of Eternity II: Deadfire,2018,8.0,61,none,"Adventure, Fantasy",Josh Sawyer
-499,Shadow Tactics: Blades of the Shogun,2016,8.0,61,none,War,Dominik Abé
-500,Destiny 2: Shadowkeep,2019,7.8,61,14,"Action, Adventure, Fantasy",Zehra Fazal
+497,Destiny 2: Shadowkeep,2019,7.8,62,14,"Action, Adventure, Fantasy",Zehra Fazal
+498,Katana Zero,2019,8.3,62,none,Action,Justin Stander
+499,Pillars of Eternity II: Deadfire,2018,8.0,61,none,"Adventure, Fantasy",Josh Sawyer
+500,Disco Elysium,2019,9.0,61,none,"Crime, Mystery",none
 501,Super Bomberman R,2017,6.6,60,none,"Action, Family",Peter von Gomm
 502,Pony Island,2016,7.3,60,none,"Adventure, Drama, Fantasy",Simon Jenkins
 503,Fortnite: Chapter 2,2019,5.5,60,none,Action,Tim Sweeney
